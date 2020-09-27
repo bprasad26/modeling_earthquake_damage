@@ -1,10 +1,6 @@
-# Dillinger
+# Richter's Predictor: Modeling Earthquake Damage
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)   [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/bprasad26/modeling_earthquake_damage/blob/master/LICENSE) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.lifewithdata.com/contact)
-
-
-
-# Richter's Predictor: Modeling Earthquake Damage
 
 
 Based on aspects of building location and construction, the goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
