@@ -65,3 +65,6 @@ celerybeat-schedule celerybeat.pid
 # pytype static type analyzer
 .pytype/
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,code
+
+# ignore models folder
+models/
