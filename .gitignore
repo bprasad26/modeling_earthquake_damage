@@ -68,3 +68,7 @@ celerybeat-schedule celerybeat.pid
 
 # ignore models folder
 models/
+
+# ignore transformed data sets
+X_test.tr.csv
+X_train_tr.csv
