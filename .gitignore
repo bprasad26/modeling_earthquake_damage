@@ -70,5 +70,5 @@ celerybeat-schedule celerybeat.pid
 models/
 
 # ignore transformed data sets
-X_test.tr.csv
+X_test_tr.csv
 X_train_tr.csv
